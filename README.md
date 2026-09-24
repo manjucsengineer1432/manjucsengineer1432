@@ -10,7 +10,7 @@ Building scalable web applications, REST APIs and modern software solutions.
 
 <p align="center">
   <a href="https://manjunath-naik-portfolio.netlify.app/">🌐 Portfolio</a> •
-  <a href="">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/man0412/">💼 LinkedIn</a> •
   <a href="manjunath.naik5424@gmail.com">📧 Email</a>
 </p>
 
