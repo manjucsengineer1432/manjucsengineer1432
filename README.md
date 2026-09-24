@@ -1,18 +1,26 @@
-<h1 align="center">Hi 👋, I'm Manjunath A Naik</h1>
+<h1 align="left">Hi 👋, I'm Manjunath A Naik</h1>
 
-<h3 align="center">
-Python Backend Developer | Full Stack Developer
+<h3 align="left">
+Full Stack Developer | Python Backend Developer |Software Engineer | Technical Analyst
 </h3>
     
-<p align="center">
+<p align="left">
+    <h4>
 Building scalable web applications, REST APIs and modern software solutions.
+        </h4>
+
+</p>
+<p align="left">
+🚀 Passionate about building scalable, high-performance web applications and real-world automation solutions. Experienced in developing <h5>Deep Learning Models, Machine Learning algorithms and API-driven platforms.</h5>
 </p>
 
-<p align="center">
-  <a href="https://manjunath-naik-portfolio.netlify.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/man0412/">💼 LinkedIn</a> •
-  <a href="https://mail.google.com/mail/u/5/#inbox">📧 Email</a>
+<p align="left">
+<a href="https://manjunath-naik-portfolio.netlify.app/">🌐 Portfolio</a>
+<a href="https://www.linkedin.com/in/man0412/"> 💼 LinkedIn </a> 
+<h5>📍Mangalore, Karnataka, India</h5>
+<h5> Email: <a>manjunath.naik5424@gmail.com </a></h5> 
 </p>
+
 
 ## 🚀 About Me
 
