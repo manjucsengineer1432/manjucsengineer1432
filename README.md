@@ -5,19 +5,19 @@ Full Stack Developer | Python Backend Developer |Software Engineer | Technical A
 </h3>
     
 <p align="left">
-    <h4>
+    <h3 align="left">
 Building scalable web applications, REST APIs and modern software solutions.
-        </h4>
-
+    </h3>
 </p>
 <p align="left">
-🚀 Passionate about building scalable, high-performance web applications and real-world automation solutions. Experienced in developing <h5>Deep Learning Models, Machine Learning algorithms and API-driven platforms.</h5>
+<h3>🚀 Passionate about building scalable, high-performance web applications and real-world automation solutions. Experienced in developing <h5 align="left">Deep Learning Models, Machine Learning algorithms and API-driven platforms.</h5> </h3>
 </p>
 
-<p align="left">
+<p>
 <a href="https://manjunath-naik-portfolio.netlify.app/">🌐 Portfolio</a>
 <a href="https://www.linkedin.com/in/man0412/"> 💼 LinkedIn </a> 
-<h5>📍Mangalore, Karnataka, India</h5>
+    </p>
+<a><h5>📍Mangalore, Karnataka, India</h5>
 <h5> Email: <a>manjunath.naik5424@gmail.com </a></h5> 
 </p>
 
@@ -108,7 +108,7 @@ Building scalable web applications, REST APIs and modern software solutions.
 
 **Tech:** Python • Angular • REST API • Database
 
-🔗 [View Repository](https://github.com/manjucsengineer1432/Depression-Detection-in-Students-using-ML-algorithms-)
+🔗 [View Repository](https://github.com/manjucsengineer1432/Crime-Prediction-Rating-System-using-ML-algorithm)
 
 ---
 
