@@ -126,9 +126,6 @@ Building scalable web applications, REST APIs and modern software solutions.
 ### 🔥 Contribution Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=manjucsengineer1432&theme=tokyonight&hide_border=true" /> </div>
 
-🐍 My Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/manjucsengineer1432/manjucsengineer1432/output/github-contribution-grid-snake.svg" /> </div>
-
 ### 📫 Connect With Me
 
 <p align="center">
