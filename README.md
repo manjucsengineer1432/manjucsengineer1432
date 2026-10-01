@@ -123,15 +123,15 @@ Building scalable web applications, REST APIs and modern software solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-
+<h1>
 <img src="https://github-readme-stats.vercel.app/api?username=manjucsengineer1432&show_icons=true&theme=tokyonight">
-
+</h1>
 </p>
 
 <p align="center">
-
+<h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjucsengineer1432&layout=compact&theme=tokyonight">
-
+</h1>
 </p>
 
 
