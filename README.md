@@ -21,7 +21,6 @@ Building scalable web applications, REST APIs and modern software solutions.
 <h5> Email: <a>manjunath.naik5424@gmail.com </a></h5> 
 </p>
 
-
 ## 🚀 About Me
 
 - 💻 Full Stack Developer with experience building web applications and REST APIs
@@ -122,18 +121,13 @@ Building scalable web applications, REST APIs and modern software solutions.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<h1>
-<img src="https://github-readme-stats.vercel.app/api?username=manjucsengineer1432&show_icons=true&theme=tokyonight">
-</h1>
-</p>
+ <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjucsengineer1432&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjucsengineer1432&layout=compact&theme=tokyonight&hide_border=true"/> </div>
 
-<p align="center">
-<h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjucsengineer1432&layout=compact&theme=tokyonight">
-</h1>
-</p>
+### 🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=manjucsengineer1432&theme=tokyonight&hide_border=true" /> </div>
 
+🐍 My Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/manjucsengineer1432/manjucsengineer1432/output/github-contribution-grid-snake.svg" /> </div>
 
 ### 📫 Connect With Me
 
@@ -147,5 +141,8 @@ Building scalable web applications, REST APIs and modern software solutions.
 <a href="mailto:manjunath.naik5424@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 </p>
+
+
+
+
