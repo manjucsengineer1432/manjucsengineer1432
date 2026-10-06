@@ -24,6 +24,7 @@ Building scalable web applications, REST APIs and modern software solutions.
 ## 🚀 About Me
 
 - 💻 Full Stack Developer with experience building web applications and REST APIs
+-  🚀   Currently working on LLM models
 - 🐍 Currently focusing on Python backend development
 - 🌐 Experienced with frontend and backend application development
 - 🗄️ Interested in database design, API development and scalable applications
